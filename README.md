@@ -18,7 +18,7 @@ This repository contains resources related to the research paper titled *"Explor
 3. **Presentation**  
    - **Title:** Feature Selection Using LLMs - An Overview  
    - **Description:** A slide deck summarizing key aspects of the research, featuring graphs and visuals.  
-   - **File:** [Feature_Selection_LLMs_Presentation.pptx](./Feature_Selection_LLMs_Presentation.pptx)  
+   - **File:** [Exploring Large Language Models for Feature Selection.pptx](https://github.com/satvik-atmakuri/LLMs-for-feature-selection/blob/main/Exploring%20Large%20Language%20Models%20for%20Feature%20Selection.pptx)
 
 4. **YouTube Video**  
    - **Title:** Demystifying Feature Selection with LLMs  
