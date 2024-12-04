@@ -7,7 +7,7 @@ This repository contains resources related to the research paper titled *"Explor
 
 1. **Research Paper**  
    - **Title:** Exploring Large Language Models for Feature Selection: A Data-centric Perspective  
-   - **Authors:** [Author Names (from the paper)]  
+   - **Authors:** Dawei Li, Zhen Tan, Huan Liu 
    - **Link:** [Download the Paper](https://arxiv.org/pdf/2408.12025)  
 
 2. **Medium Article**  
